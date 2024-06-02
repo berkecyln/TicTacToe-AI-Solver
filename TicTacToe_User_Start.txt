@@ -1,0 +1,176 @@
+===== Welcome to Tic Tac Toe Game! =====
+Please press E to exit the game at any time.
+
+    0   1   2
+   --- --- --- 
+0 |   |   |   | 
+   --- --- --- 
+1 |   |   |   | 
+   --- --- --- 
+2 |   |   |   | 
+   --- --- --- 
+Do you want to start first? (Y/N)
+y
+You are X
+===== Your Turn =====
+Current board:
+    0   1   2
+   --- --- --- 
+0 |   |   |   | 
+   --- --- --- 
+1 |   |   |   | 
+   --- --- --- 
+2 |   |   |   | 
+   --- --- --- 
+Enter the row and column number to place your move.
+Format: Row Column --> e.g. 0 1
+Row Column:
+0 0
+User's move: Row: 0, Column: 0, Label, X
+Board after your action
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 |   |   |   | 
+   --- --- --- 
+2 |   |   |   | 
+   --- --- --- 
+===== AI's turn =====
+AI's move: Row: 1, Column: 1, Label, O
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 |   | O |   | 
+   --- --- --- 
+2 |   |   |   | 
+   --- --- --- 
+===== Your Turn =====
+Current board:
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 |   | O |   | 
+   --- --- --- 
+2 |   |   |   | 
+   --- --- --- 
+Enter the row and column number to place your move.
+Format: Row Column --> e.g. 0 1
+Row Column:
+2 0
+User's move: Row: 2, Column: 0, Label, X
+Board after your action
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 |   | O |   | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+===== AI's turn =====
+AI's move: Row: 1, Column: 0, Label, O
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 | O | O |   | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+===== Your Turn =====
+Current board:
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 | O | O |   | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+Enter the row and column number to place your move.
+Format: Row Column --> e.g. 0 1
+Row Column:
+1 2
+User's move: Row: 1, Column: 2, Label, X
+Board after your action
+    0   1   2
+   --- --- --- 
+0 | X |   |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+===== AI's turn =====
+AI's move: Row: 0, Column: 1, Label, O
+    0   1   2
+   --- --- --- 
+0 | X | O |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+===== Your Turn =====
+Current board:
+    0   1   2
+   --- --- --- 
+0 | X | O |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X |   |   | 
+   --- --- --- 
+Enter the row and column number to place your move.
+Format: Row Column --> e.g. 0 1
+Row Column:
+2 1
+User's move: Row: 2, Column: 1, Label, X
+Board after your action
+    0   1   2
+   --- --- --- 
+0 | X | O |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X | X |   | 
+   --- --- --- 
+===== AI's turn =====
+AI's move: Row: 2, Column: 2, Label, O
+    0   1   2
+   --- --- --- 
+0 | X | O |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X | X | O | 
+   --- --- --- 
+===== Your Turn =====
+Current board:
+    0   1   2
+   --- --- --- 
+0 | X | O |   | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X | X | O | 
+   --- --- --- 
+Enter the row and column number to place your move.
+Format: Row Column --> e.g. 0 1
+Row Column:
+0 2
+User's move: Row: 0, Column: 2, Label, X
+Board after your action
+    0   1   2
+   --- --- --- 
+0 | X | O | X | 
+   --- --- --- 
+1 | O | O | X | 
+   --- --- --- 
+2 | X | X | O | 
+   --- --- --- 
+===== Game Over! =====
+The game is a draw.
